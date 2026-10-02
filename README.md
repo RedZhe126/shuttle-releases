@@ -6,11 +6,11 @@
 
 ## 📲 快速下載連結
 
-| 版本名稱 | 適用對象 | 最新版本下載 |
+| 版本名稱 | 適用對象 | 直接下載連結 |
 | :--- | :--- | :--- |
-| **學生與家長版 (MILU 米路)** | 學生、家長 | [點此下載學生版 APK](../../releases/latest/download/安心專車-學生版.apk) |
-| **司機版** | 專車執勤駕駛 | [點此下載司機版 APK](../../releases/latest/download/安心專車-司機版.apk) |
-| **管理版** | 行政與調度人員 | [點此下載管理版 APK](../../releases/latest/download/安心專車-管理版.apk) |
+| **學生與家長版 (MILU 米路)** | 學生、家長 | [點此下載學生版 (shuttle-student.apk)](https://github.com/RedZhe126/shuttle-releases/releases/latest/download/shuttle-student.apk) |
+| **司機版** | 專車執勤駕駛 | [點此下載司機版 (shuttle-driver.apk)](https://github.com/RedZhe126/shuttle-releases/releases/latest/download/shuttle-driver.apk) |
+| **管理版** | 行政與調度人員 | [點此下載管理版 (shuttle-admin.apk)](https://github.com/RedZhe126/shuttle-releases/releases/latest/download/shuttle-admin.apk) |
 
 ---
 
